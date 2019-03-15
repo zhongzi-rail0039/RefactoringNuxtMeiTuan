@@ -1,6 +1,6 @@
 # mt-app
 
-> koa 里面运用 import
+> koa 里面运用 import 后面配置babel
 
 ## Build Setup
 
