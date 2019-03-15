@@ -1,0 +1,27 @@
+.layout-default {
+    background-color: #ffffff;
+    color: #2e2f30;
+    margin: 0;
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+    height: 100vh;
+    /* 属性明确了文字的间距行为 */
+    letter-spacing: 0.5px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body * {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+}
+
+a, a:hover, a:focus, a:visited {
+    color: #41B883;
+}
